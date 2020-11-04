@@ -9,3 +9,5 @@ Audio (parlantes y mic internos)
 Cerrarla la manda a sleep
 ahora ya funciona about this mac
 target 67 -> para que deje logs de booteo apagado
+wifi de intel, usar con app: Heliport (mapea wifi a red ethernet lol)
+subir y bajar y mute de volumen, brillo funciona pero no con los botones :s
