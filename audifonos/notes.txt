@@ -1,0 +1,2 @@
+ojo, hay que cambiar los paths, tanto del json como del install sh,
+preferible correr cada step del install

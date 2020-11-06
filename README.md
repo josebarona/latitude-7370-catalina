@@ -5,7 +5,7 @@ Funciona:
 Battery info
 Trackpad
 Camera
-Audio (parlantes y mic internos)
+Audio (parlantes y mic internos + audifonos, ver carpeta)
 Cerrarla la manda a sleep
 ahora ya funciona about this mac
 target 67 -> para que deje logs de booteo apagado
